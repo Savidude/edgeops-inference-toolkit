@@ -1,0 +1,7 @@
+{
+    "version": "0.0.1",
+    "mqtt-input-topic": "inference/sample/scania/aps/req", 
+    "mqtt-output-topic": "inference/sample/scania/aps/res", 
+    "model-dir": "./models", 
+    "model-name": "gbdt_model.pkl"
+}
