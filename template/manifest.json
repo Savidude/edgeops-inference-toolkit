@@ -1,0 +1,7 @@
+{
+    "version": "0.0.1",
+    "mqtt-input-topic": "mqtt/input/topic", 
+    "mqtt-output-topic": "mqtt/output/topic", 
+    "model-dir": "./models", 
+    "model-name": "model.pkl"
+}
